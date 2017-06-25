@@ -1,0 +1,10 @@
+Acceuil: Ici ontrouvera les dernieres publications, les derniers sujets du forum, ainsi que unlien rapide vers les derniers discution participé.
+Messages et Notifications:
+Espace a document.
+Horairte de cours.
+Portails des cours.
+Personalisation du compte.
+Espace de partage.
+Espace Quiz.// Liste dequiz prepare par proffesseur et etudiant, esemble de chala ou autre presenté sous forme de quiz.
+A propos de Zone Etudiant. 
+Espace de validation.
