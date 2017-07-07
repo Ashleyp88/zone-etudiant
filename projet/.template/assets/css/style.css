@@ -1,0 +1,115 @@
+header, footer
+{
+	background-color: rgb(1, 49, 90);
+	width: 100%;
+}
+
+header, section, footer
+{
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+footer
+{
+	position: absolute;
+	height: 70%;
+	
+}
+
+#corps_inscription
+{
+	background-image: url("../images/slider1.jpg");
+	color:rgb(1, 49, 90);
+}
+#corps_inscription p
+{
+	color: rgb(185, 120, 120);
+}
+#perso
+{
+	color: rgb(230, 255, 230);
+}
+img
+{
+	margin: auto;
+}
+.grille
+{
+	padding: 1%;
+	text-align: justify;
+}
+.grille img
+{
+	width: 98%;
+}
+.grille a
+{
+	color: white;
+	text-align: center;
+}
+.lire
+{
+	background-color: rgb(30, 70, 120); 
+}
+.grille a:hover
+{
+	color:rgb(200, 200, 150);
+	
+}
+.grille h4
+{
+	text-align: center;
+}
+#form_inscription
+{
+	background-color: rgba(255, 255, 255, 0.2);
+	border: 3px solid rgb(200, 200, 200);
+	padding: 2%;
+	border-radius: 50px;
+}
+#fi_document
+{
+	position: relative;
+}
+#fil_document img
+{
+	width: 30%;
+	height: 15em;
+}
+#fil_document video
+{
+	width: 60%;
+	height: 15em;
+	margin-top: 4%;
+}
+#fil_document a
+{
+	color: rgb(45, 60, 20);
+
+}
+#fil_document div
+{
+	display: inline-block;
+	width: 30%;
+	margin-left: 2%;
+	position: absolute;
+	margin-top: 15%;
+}
+
+}
+.titre
+{
+	color: rgb(90, 120, 70);
+}
+#horaire td
+{
+	padding: 2%;
+	text-align: center;
+}
+#horaire
+{
+	width: 90%;
+}
